@@ -4,7 +4,7 @@ class Config:
     '''
     General configuration parent class
     '''
-    MOVIE_API_KEY = 'c5c3ce0bad05b780c923dd51a93ff19a'
+    # MOVIE_API_KEY = 'c5c3ce0bad05b780c923dd51a93ff19a'
     
     SECRET_KEY = 'hfbsj67gkjSBjkbvk'
     
